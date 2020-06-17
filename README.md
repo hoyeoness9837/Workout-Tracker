@@ -15,6 +15,10 @@
 
 - Go to the following deployed link and enjoy this app!
 
+## DEMO
+
+-![DEMO](/public/Assets/demo.gif)
+
 ## Github Repo
 
 - [https://github.com/hoyeoness9837/Workout-Tracker](https://github.com/hoyeoness9837/Workout-Tracker)
